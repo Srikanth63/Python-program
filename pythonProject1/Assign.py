@@ -1,3 +1,14 @@
+
+#finding the smallest number from given two.
+#using input function.
+n1=int(input("enter the first number:"))
+n2=int(input("enter the second number:"))
+#using If condition here.,
+if n1<n2:
+ print(n1 ,"is the smallest num")
+else:
+ print(n2, "is the smallest num")
+
 #finding the smallest number from given three.
 #using input function.
 n1=int(input("enter the first number:"))
